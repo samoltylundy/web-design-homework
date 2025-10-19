@@ -1,0 +1,11 @@
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: center;
+    padding: auto;
+}
+.head{
+    background-color: rgb(200, 183, 159);
+}
