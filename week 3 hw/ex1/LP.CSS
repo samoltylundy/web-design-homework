@@ -1,0 +1,50 @@
+.all {
+    background-color: #888;
+    padding: 100px;
+    border-radius: 10px;
+    width: 800px;
+    margin: 50px ;
+   
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 20px;
+    width: 500px;
+    margin: 30px;
+    
+   
+}
+.card p {
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+ .button1 {
+    display: inline-block;
+    padding: 0px 12px ;
+    border: none;
+    background-color: rgb(20, 214, 150);
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    transition:transform 0.2s ease;
+}
+
+.button1:hover {
+            transform: scale(1.05);
+}
+.blue {
+    background-color: #5c6deb;
+}
+
+.orange {
+    background-color: #d39e3c;
+}
+
+.purple {
+    background-color: #b51eb5;
+}
+

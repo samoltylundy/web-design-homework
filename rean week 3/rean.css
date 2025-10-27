@@ -1,0 +1,28 @@
+.box{
+    height: 0px;
+    width: 50px;
+    background-color: red;
+    display: flex;
+    border: 20px;
+    flex:20px;
+    padding: 20px;;
+    align-items: center;
+    justify-content: center;
+    margin: 250px;
+    border-radius: 20px;
+    box-shadow: 0px 1px 1px px ;
+    transition: background-color 0.3s;
+     transition: transform 0.3s;
+      cursor: pointer;
+}
+.box:hover{
+    background-color: aqua;
+    transform: rotate(360deg);
+   justify-content: ;
+}
+
+
+
+
+
+
